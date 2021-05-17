@@ -1,0 +1,15 @@
+    /**************** home page css ***************************** */
+.myinfo{
+    text-align: center;
+}
+
+.myinfotext {
+    font-size: 1.5rem;
+    margin:0 13rem;
+}
+ 
+@media only screen and (max-width:992px) {
+    .myinfotext {
+        margin: 0;
+    }
+}
